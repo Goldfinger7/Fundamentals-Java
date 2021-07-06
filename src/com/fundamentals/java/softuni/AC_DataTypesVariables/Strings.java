@@ -7,12 +7,25 @@ public class Strings {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         char s1 = scanner.nextLine().charAt(0);
-        char s2 = scanner.nextLine().charAt(0);
-        char s3 = scanner.nextLine().charAt(0);
 
-        String abc = String.valueOf(s3 + ' ' + s2 + ' ' + s1);
-        System.out.println(abc);
+        if (Character.isLowerCase(s1)){
+            System.out.println("lower-case");
+        }
+
+        if (Character.isUpperCase(s1)){
+            System.out.println("upper-case");
+        }
     }
+
+//    public static void main(String[] args) {
+//        Scanner scanner = new Scanner(System.in);
+//        char s1 = scanner.nextLine().charAt(0);
+//        char s2 = scanner.nextLine().charAt(0);
+//        char s3 = scanner.nextLine().charAt(0);
+//
+//        String abc = String.valueOf(s1 + ' ' + s2 + ' ' + s3);
+//        System.out.println(abc);
+//    }
 
 //    public static void main(String[] args) {
 //        Scanner scanner = new Scanner(System.in);
