@@ -2,11 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97f50db7-8092-4844-9ab6-c80f9f43cdb6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AC_DataTypesVariables/Centuries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AC_DataTypesVariables/MetersToKm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AC_DataTypesVariables/Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AD_DataTypesVariablesExerc/BeerKegs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AD_DataTypesVariablesExerc/PrintASCII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AD_DataTypesVariablesExerc/SpiceMustFlow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AD_DataTypesVariablesExerc/Triples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AD_DataTypesVariablesExerc/WaterOverflow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AE_Arrays/ArraysLab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AE_Arrays/CondenseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AE_Arrays/EqualArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AE_Arrays/EvenOddSubt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AE_Arrays/ForEachLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AE_Arrays/ReverseArrayOfInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AF_ArraysExerc/ArraysRotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AF_ArraysExerc/CommonElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AF_ArraysExerc/EqualSums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AF_ArraysExerc/TopIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AF_ArraysExerc/Trains.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AF_ArraysExerc/ZigZagArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AF_ArraysExerc/_MaxSequenceInt.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Fundamentals-Java/com/fundamentals/java/softuni/AB_BasicSyntaxExerc/Triangles.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Fundamentals-Java/com/fundamentals/java/softuni/AC_DataTypesVariables/Centuries.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Fundamentals-Java/com/fundamentals/java/softuni/AC_DataTypesVariables/Centuries.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Fundamentals-Java/com/fundamentals/java/softuni/AC_DataTypesVariables/Strings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Fundamentals-Java/com/fundamentals/java/softuni/AC_DataTypesVariables/Strings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AC_DataTypesVariables/Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AC_DataTypesVariables/Strings.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,14 +110,30 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
-  <component name="RunManager" selected="Application.Centuries">
-    <configuration name="Centuries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fundamentals.java.softuni.AC_DataTypesVariables.Centuries" />
+  <component name="RunManager" selected="Application.АА_MaxSequenceInt">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArraysRotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fundamentals.java.softuni.AF_ArraysExerc.ArraysRotation" />
       <module name="Fundamentals-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fundamentals.java.softuni.AC_DataTypesVariables.*" />
+          <option name="PATTERN" value="com.fundamentals.java.softuni.AF_ArraysExerc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MetersToKm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fundamentals.java.softuni.AC_DataTypesVariables.MetersToKm" />
+    <configuration name="EqualSums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fundamentals.java.softuni.AF_ArraysExerc.EqualSums" />
       <module name="Fundamentals-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fundamentals.java.softuni.AC_DataTypesVariables.*" />
+          <option name="PATTERN" value="com.fundamentals.java.softuni.AF_ArraysExerc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +154,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fundamentals.java.softuni.AC_DataTypesVariables.Strings" />
+    <configuration name="TopIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fundamentals.java.softuni.AF_ArraysExerc.TopIntegers" />
       <module name="Fundamentals-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fundamentals.java.softuni.AC_DataTypesVariables.*" />
+          <option name="PATTERN" value="com.fundamentals.java.softuni.AF_ArraysExerc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +167,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Triangles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fundamentals.java.softuni.AB_BasicSyntaxExerc.Triangles" />
+    <configuration name="ZigZagArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fundamentals.java.softuni.AF_ArraysExerc.ZigZagArrays" />
       <module name="Fundamentals-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fundamentals.java.softuni.AB_BasicSyntaxExerc.*" />
+          <option name="PATTERN" value="com.fundamentals.java.softuni.AF_ArraysExerc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,12 +180,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VendingMachine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fundamentals.java.softuni.AB_BasicSyntaxExerc.VendingMachine" />
+    <configuration name="_MaxSequenceInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fundamentals.java.softuni.AF_ArraysExerc._MaxSequenceInt" />
       <module name="Fundamentals-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fundamentals.java.softuni.AB_BasicSyntaxExerc.*" />
+          <option name="PATTERN" value="com.fundamentals.java.softuni.AF_ArraysExerc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,19 +194,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.VendingMachine" />
-      <item itemvalue="Application.Triangles" />
-      <item itemvalue="Application.MetersToKm" />
-      <item itemvalue="Application.Strings" />
-      <item itemvalue="Application.Centuries" />
+      <item itemvalue="Application.ZigZagArrays" />
+      <item itemvalue="Application.ArraysRotation" />
+      <item itemvalue="Application.EqualSums" />
+      <item itemvalue="Application.TopIntegers" />
+      <item itemvalue="Application.АА_MaxSequenceInt" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Centuries" />
-        <item itemvalue="Application.Strings" />
-        <item itemvalue="Application.MetersToKm" />
-        <item itemvalue="Application.Triangles" />
-        <item itemvalue="Application.VendingMachine" />
+        <item itemvalue="Application.АА_MaxSequenceInt" />
+        <item itemvalue="Application.TopIntegers" />
+        <item itemvalue="Application.EqualSums" />
+        <item itemvalue="Application.ArraysRotation" />
+        <item itemvalue="Application.ZigZagArrays" />
       </list>
     </recent_temporary>
   </component>
@@ -189,10 +223,21 @@
       <workItem from="1623337065110" duration="303000" />
       <workItem from="1623780862914" duration="7090000" />
       <workItem from="1624116522622" duration="970000" />
+      <workItem from="1624979534490" duration="634000" />
+      <workItem from="1625645906339" duration="42000" />
+      <workItem from="1625646074656" duration="10892000" />
+      <workItem from="1626007328332" duration="1364000" />
+      <workItem from="1626083172892" duration="1932000" />
+      <workItem from="1627026541541" duration="19846000" />
+      <workItem from="1627464529418" duration="16046000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

@@ -6,15 +6,35 @@ public class Strings {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        char s1 = scanner.nextLine().charAt(0);
+        String message = scanner.nextLine();
+        int counter = 0;
+        String result = "";
 
-        if (Character.isLowerCase(s1)){
-            System.out.println("lower-case");
-        }
+        for (int i = 0; i < message.length() - 1; i++) {
+            char currentLetter = message.charAt(i);
+            char nextLetter = message.charAt(i + 1);
 
-        if (Character.isUpperCase(s1)){
-            System.out.println("upper-case");
+            if (currentLetter == nextLetter) {
+                counter++;
+            } else {
+                String prob = String.format("%c", (char)currentLetter);
+                if (counter >= 2) {
+                    prob.concat(String.valueOf(counter));
+                }
+                counter = 0;
+                result = prob;
+            }
+            System.out.println(result);
         }
+//        char s1 = scanner.nextLine().charAt(0);
+//
+//        if (Character.isLowerCase(s1)){
+//            System.out.println("lower-case");
+//        }
+//
+//        if (Character.isUpperCase(s1)){
+//            System.out.println("upper-case");
+//        }
     }
 
 //    public static void main(String[] args) {
