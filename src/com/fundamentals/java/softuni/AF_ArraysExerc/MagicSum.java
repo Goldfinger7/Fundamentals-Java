@@ -13,6 +13,11 @@ public class MagicSum {
         int magicNumber = Integer.parseInt(scanner.nextLine());
 
         for (int index = 0; index < numbersArr.length; index++) {
+            for (int i = index + 1; i < numbersArr.length; i++) {
+                if ((numbersArr[index] + numbersArr[i]) == magicNumber) {
+                    System.out.println(numbersArr[index] + " " + numbersArr[i]);
+                }
+            }
 
         }
     }

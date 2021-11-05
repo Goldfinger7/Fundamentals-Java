@@ -2,29 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97f50db7-8092-4844-9ab6-c80f9f43cdb6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AD_DataTypesVariablesExerc/BeerKegs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AD_DataTypesVariablesExerc/PrintASCII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AD_DataTypesVariablesExerc/SpiceMustFlow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AD_DataTypesVariablesExerc/Triples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AD_DataTypesVariablesExerc/WaterOverflow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AE_Arrays/ArraysLab.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AE_Arrays/CondenseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AE_Arrays/EqualArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AE_Arrays/EvenOddSubt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AE_Arrays/ForEachLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AE_Arrays/ReverseArrayOfInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AF_ArraysExerc/ArraysRotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AF_ArraysExerc/CommonElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AF_ArraysExerc/EqualSums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AF_ArraysExerc/TopIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AF_ArraysExerc/Trains.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AF_ArraysExerc/ZigZagArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AF_ArraysExerc/_MaxSequenceInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AF_ArraysExerc/Kamino2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AF_ArraysExerc/KaminoFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Fundamentals-Java/com/fundamentals/java/softuni/AC_DataTypesVariables/Centuries.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Fundamentals-Java/com/fundamentals/java/softuni/AC_DataTypesVariables/Centuries.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Fundamentals-Java/com/fundamentals/java/softuni/AC_DataTypesVariables/Strings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Fundamentals-Java/com/fundamentals/java/softuni/AC_DataTypesVariables/Strings.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AC_DataTypesVariables/Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AC_DataTypesVariables/Strings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Fundamentals-Java/com/fundamentals/java/softuni/AF_ArraysExerc/MaxSequenceInt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AF_ArraysExerc/MagicSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AF_ArraysExerc/MagicSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +98,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
-  <component name="RunManager" selected="Application.АА_MaxSequenceInt">
+  <component name="RunManager" selected="Application.Kamino2">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -128,8 +110,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArraysRotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fundamentals.java.softuni.AF_ArraysExerc.ArraysRotation" />
+    <configuration name="Kamino2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fundamentals.java.softuni.AF_ArraysExerc.Kamino2" />
       <module name="Fundamentals-Java" />
       <extension name="coverage">
         <pattern>
@@ -141,8 +123,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EqualSums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fundamentals.java.softuni.AF_ArraysExerc.EqualSums" />
+    <configuration name="KaminoFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fundamentals.java.softuni.AF_ArraysExerc.KaminoFactory" />
+      <module name="Fundamentals-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fundamentals.java.softuni.AF_ArraysExerc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MagicSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fundamentals.java.softuni.AF_ArraysExerc.MagicSum" />
       <module name="Fundamentals-Java" />
       <extension name="coverage">
         <pattern>
@@ -156,19 +151,6 @@
     </configuration>
     <configuration name="TopIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.fundamentals.java.softuni.AF_ArraysExerc.TopIntegers" />
-      <module name="Fundamentals-Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.fundamentals.java.softuni.AF_ArraysExerc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ZigZagArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fundamentals.java.softuni.AF_ArraysExerc.ZigZagArrays" />
       <module name="Fundamentals-Java" />
       <extension name="coverage">
         <pattern>
@@ -194,19 +176,18 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ZigZagArrays" />
-      <item itemvalue="Application.ArraysRotation" />
-      <item itemvalue="Application.EqualSums" />
+      <item itemvalue="Application._MaxSequenceInt" />
       <item itemvalue="Application.TopIntegers" />
-      <item itemvalue="Application.АА_MaxSequenceInt" />
+      <item itemvalue="Application.MagicSum" />
+      <item itemvalue="Application.KaminoFactory" />
+      <item itemvalue="Application.Kamino2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.АА_MaxSequenceInt" />
+        <item itemvalue="Application.Kamino2" />
+        <item itemvalue="Application.KaminoFactory" />
+        <item itemvalue="Application.MagicSum" />
         <item itemvalue="Application.TopIntegers" />
-        <item itemvalue="Application.EqualSums" />
-        <item itemvalue="Application.ArraysRotation" />
-        <item itemvalue="Application.ZigZagArrays" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +210,10 @@
       <workItem from="1626007328332" duration="1364000" />
       <workItem from="1626083172892" duration="1932000" />
       <workItem from="1627026541541" duration="19846000" />
-      <workItem from="1627464529418" duration="16046000" />
+      <workItem from="1627464529418" duration="23956000" />
+      <workItem from="1628626795105" duration="2545000" />
+      <workItem from="1633694044269" duration="1771000" />
+      <workItem from="1634109858031" duration="1000" />
     </task>
     <servers />
   </component>
