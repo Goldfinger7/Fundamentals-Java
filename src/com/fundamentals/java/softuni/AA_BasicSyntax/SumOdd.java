@@ -5,10 +5,10 @@
 //public class SumOdd {
 //    public static void main(String[] args) {
 //        Scanner scanner = new Scanner(System.in);
-//        int countOdd = Integer.parseInt(scanner.nextLine());
+//        int numbers = Integer.parseInt(scanner.nextLine());
 //        int sumOdd = 0;
 //
-//        for (int i = 1; i <= countOdd; i++) {
+//        for (int i = 1; i <= numbers; i++) {
 //            int oddNumber = 2 * i - 1;
 //            sumOdd += oddNumber;
 //            System.out.println(oddNumber);

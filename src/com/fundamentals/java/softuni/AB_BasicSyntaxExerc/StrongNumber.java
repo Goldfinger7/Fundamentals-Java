@@ -6,6 +6,7 @@
 //    public static void main(String[] args) {
 //        Scanner scanner = new Scanner(System.in);
 //        //цифра -> факториел -> сумирам
+//        // 5! = 5*4*3*2*1
 //        int number = Integer.parseInt(scanner.nextLine());
 //        int sumFact = 0;
 //
@@ -14,6 +15,7 @@
 //            int lastDigit = number % 10;
 //            //намираме факториела на цифрата
 //            int fact = 1;
+//
 //            for (int n = 1; n <= lastDigit; n++) {
 //                fact = fact * n;
 //            }

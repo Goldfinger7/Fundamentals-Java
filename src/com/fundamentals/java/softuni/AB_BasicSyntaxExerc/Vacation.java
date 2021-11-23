@@ -4,67 +4,8 @@
 //
 //public class Vacation {
 //    public static void main(String[] args) {
-//
 //        Scanner scanner = new Scanner(System.in);
-//        int countGroup = Integer.parseInt(scanner.nextLine());
-//        String groupType = scanner.nextLine();
-//        String day = scanner.nextLine();
-//        double price = 0.00;
-//        double totalPrice = 0.00;
 //
-//        switch (day) {
-//            case "Friday":
-//                if ("Students".equals(groupType)) {
-//                    price = 8.45;
-//                } else if ("Business".equals(groupType)) {
-//                    price = 10.90;
-//                } else if ("Regular".equals(groupType)) {
-//                    price = 15;
-//                }
-//                break;
-//            case "Saturday":
-//                if ("Students".equals(groupType)) {
-//                    price = 9.80;
-//                } else if ("Business".equals(groupType)) {
-//                    price = 15.60;
-//                } else if ("Regular".equals(groupType)) {
-//                    price = 20;
-//                }
-//                break;
-//            case "Sunday":
-//                if ("Students".equals(groupType)) {
-//                    price = 10.46;
-//                } else if ("Business".equals(groupType)) {
-//                    price = 16;
-//                } else if ("Regular".equals(groupType)) {
-//                    price = 22.50;
-//                }
-//                break;
-//        }
-//
-//        totalPrice = countGroup * price;
-//
-//        if ("Students".equals(groupType) && countGroup >= 30) {
-//            totalPrice -= (totalPrice * 0.15);
-//        }
-//
-//        if ("Business".equals(groupType) && countGroup >= 100) {
-//            totalPrice -= (price * 10);
-//        }
-//
-//        if ("Students".equals(groupType) && countGroup >= 10 && countGroup <= 20) {
-//            totalPrice -= (totalPrice * 0.05);
-//        }
-//
-//        System.out.printf("Total price: %.2f", totalPrice);
-//    }
-//}
-//
-//import java.util.Scanner;
-//
-//public class Vacation {
-//    public static void main(String[] args) {
-//        Scanner scanner = new Scanner(System.in);
 //        int quantity = Integer.parseInt(scanner.nextLine());
 //        String group = scanner.nextLine();
 //        String day = scanner.nextLine();
@@ -82,12 +23,12 @@
 //                    price = quantity * 10.46;
 //                    break;
 //            }
-//            if (quantity >=30){
+//            if (quantity >= 30) {
 //                price = price * 0.85;
 //
 //            }
 //        } else if (group.equals("Business")) {
-//            if (quantity >=100) {
+//            if (quantity >= 100) {
 //                quantity -= 10;
 //            }
 //            switch (day) {
@@ -101,7 +42,7 @@
 //                    price = quantity * 16.00;
 //                    break;
 //            }
-//        } else if (group.equals("Regular")){
+//        } else if (group.equals("Regular")) {
 //            switch (day) {
 //                case "Friday":
 //                    price = quantity * 15.00;
@@ -113,11 +54,11 @@
 //                    price = quantity * 22.50;
 //                    break;
 //            }
-//            if (quantity >=10 && quantity<=20){
+//            if (quantity >= 10 && quantity <= 20) {
 //                price = price * 0.95;
 //            }
 //        }
-//        System.out.printf("Total price: %.2f",price);
+//        System.out.printf("Total price: %.2f", price);
 //
 //
 //    }

@@ -4,12 +4,12 @@
 //
 //public class Triangles {
 //    public static void main(String[] args) {
-//        Scanner scanner = new Scanner (System.in);
+//        Scanner scanner = new Scanner(System.in);
 //        int n = Integer.parseInt(scanner.nextLine());
 //
-//        for (int row = 1; row <= n ; row++) {
+//        for (int row = 1; row <= n; row++) {
 //            //колко пъти да печатам нещо
-//            for (int count = 1; count <= row ; count++) {
+//            for (int count = 1; count <= row; count++) {
 //                System.out.print(row + " ");
 //            }
 //            System.out.println();

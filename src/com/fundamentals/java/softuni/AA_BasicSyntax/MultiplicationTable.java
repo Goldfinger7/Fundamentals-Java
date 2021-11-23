@@ -8,14 +8,21 @@
 //        int n = Integer.parseInt(scanner.nextLine());
 //        int x = Integer.parseInt(scanner.nextLine());
 //
-//        if (x > 10) {
+//        do {
 //            int sum = n * x;
 //            System.out.printf("%d X %d = %d\n", n, x, sum);
-//        } else {
-//            for (int j = x; j <= 10; j++) {
-//                int sum = n * j;
-//                System.out.printf("%d X %d = %d\n", n, j, sum);
-//            }
-//        }
+//            x++;
+//        } while (x <= 10);
 //    }
+//
+////        if (x > 10) {
+////            int sum = n * x;
+////            System.out.printf("%d X %d = %d\n", n, x, sum);
+////        } else {
+////            for (int j = x; j <= 10; j++) {
+////                int sum = n * j;
+////                System.out.printf("%d X %d = %d\n", n, j, sum);
+////            }
+////        }
+//
 //}
