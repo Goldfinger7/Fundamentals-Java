@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97f50db7-8092-4844-9ab6-c80f9f43cdb6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AB_BasicSyntaxExerc/Orders.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Fundamentals-Java/com/fundamentals/java/softuni/AC_BasicSyntaxExercMore/Message.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AC_BasicSyntaxExercMore/GamingStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AC_BasicSyntaxExercMore/GamingStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AC_DataTypesVariables/Centuries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AC_DataTypesVariables/Centuries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AC_DataTypesVariables/MetersToKm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AC_DataTypesVariables/MetersToKm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AC_DataTypesVariables/SpecialNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AC_DataTypesVariables/SpecialNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AC_DataTypesVariables/Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AC_DataTypesVariables/Strings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AC_DataTypesVariables/VolumeOfPyramids.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AC_DataTypesVariables/VolumeOfPyramids.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AD_DataTypesVariablesExerc/IntegerOps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fundamentals/java/softuni/AD_DataTypesVariablesExerc/IntegerOps.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,7 +163,8 @@
       <workItem from="1637225068600" duration="7480000" />
       <workItem from="1637585570749" duration="10055000" />
       <workItem from="1637651351249" duration="10751000" />
-      <workItem from="1637675331457" duration="337000" />
+      <workItem from="1637675331457" duration="2234000" />
+      <workItem from="1641831500623" duration="9949000" />
     </task>
     <servers />
   </component>
